@@ -52,4 +52,4 @@ It was really something to see in New York City. We never made it all the way to
 
 ![](images/DSCF0184.jpg)
 
-See a typo? Submit a [pull-request]()!
+See a typo? Submit a [pull-request](https://github.com/micahwalter/blogs-14918-womens-rights-are-human-rights)!
